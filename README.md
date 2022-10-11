@@ -7,7 +7,7 @@ A workout app currently in development
 * jetpack compose
 * animation (Spring)
 
-upcoming features include:
+# upcoming features include:
 
 * navigation
 * architecture
