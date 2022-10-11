@@ -1,6 +1,7 @@
 # WorkItOut
 A workout app currently in development
-Current features include:
+
+# what is have worked on for far:
 
 * material design
 * jetpack compose
