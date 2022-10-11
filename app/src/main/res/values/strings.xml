@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WorkItOut</string>
+
+    <string name="cobra_stretch">cobra stretch</string>
+    <string name="abdominal_crunch">abdominal crunch</string>
+    <string name="heel_touch">heel touch</string>
+    <string name="jumping_jacks">jumping jacks</string>
+    <string name="leg_raises">leg raises</string>
+    <string name="mountain_climber">mountain climber</string>
+    <string name="plank">plank</string>
+    <string name="squats">squats</string>
+    <string name="push_ups">push ups</string>
+    <string name="russian_twist">russian twist</string>
+
+
+    <string name="cobra_stretch_description">Cobra done with the arms bent is sometimes called Baby Cobra.</string>
+    <string name="abdominal_crunch_description">a physical exercise in which the body is brought into a sitting position from one lying on the back.</string>
+    <string name="heel_touch_description"> heel touches are a calisthenics based, ab and oblique focused workout move.</string>
+    <string name="jumping_jacks_description"> an exercise in which a standing person jumps to a position with the legs and arms spread out and then jumps back to the original position.</string>
+    <string name="leg_raises_description">Lie on your back, legs straight and together. 2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor. 3. Slowly lower your legs back down till they\'re just above the floor.</string>
+    <string name="mountain_climber_description">That\'s the concept behind mountain climbers. Performed from a plank position, you\'ll alternate bringing one knee to your chest, then back out again, speeding up each time until you\'re \"running\" against the floor.</string>
+    <string name="plank_description">The plank is a body weight exercise which involves holding the trunk part of your body in a straight line off the ground. The static exercise engages multiple muscle groups at the same time which makes it extremely effective at strengthening your core, whilst also working the shoulders, arms and glutes.</string>
+    <string name="squats_description">A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up. During the descent of a squat, the hip and knee joints flex while the ankle joint dorsiflexes; conversely the hip and knee joints extend and the ankle joint plantarflexes when standing up.</string>
+    <string name="push_ups_description">push ups are an exercise in which a person, keeping a prone position, with the hands palms down under the shoulders, the balls of the feet on the ground, and the back straight, pushes the body up and lets it down by an alternate straightening and bending of the arms.</string>
+    <string name="russian_twist_description">The Russian twist is a core exercise that works your abdominal muscles, especially your transverse abdominis as well as your internal and external obliques. Russian twists are performed by sitting with your legs bent and your lower back straight, engaging your core muscles as you rotate your torso back and forth.</string>
+
+    <string name="expand_button_content_description">expand more to see the description</string>
+
+</resources>
